@@ -1,15 +1,24 @@
-# 2.5D Physics Game
-HTML5, CSS3 and plain vanilla JavaScript
+# JavaScript 2.5D Physics Game
 
-- Simple AI 
-- Control FPS of our game and measure time to trigger periodic events
-- Restart the game by pressing a button (R)
-- Collision detection, resolve collisions and use that to simulate physics
-- Use the built-in drawImage method to draw randomized game environments and animated characters from a sprite sheet
-- Capture mouse position and animate an 8 directional sprite sheet based on the relative position between the mouse and the player character
-- Debug mode by pressing a button (D)
-* Object Oriented Programming in JS
+Live Demo: https://codepen.io/fortythreesunsets/pen/RNrwdJW
 
-GOAL: Push eggs, enemies and hatchlings around to make sure we protect and save as many as possible
+# Technologies used:
+- HTML 5
+- CSS 3
+- Vanilla JavaScript
 
-TO DO: pause game
+## Controls
+- Press and hold the left click and move the Blue Bull
+- Restart game: R
+- Debug mode: D
+
+## Goal
+Protect and save as many possible eggs and hatchlings by pushing them to the forest, and getting enemies out of their way.
+
+## Features:
+- Simple enemy AI 
+- Time triggered periodic events
+- Collision detection
+- Animated sprites
+- Randomized game environments and characters
+- Capture mouse position and animate it an 8 directional sprite sheet based on the relative position between the mouse and the Player

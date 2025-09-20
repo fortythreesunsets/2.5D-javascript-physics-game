@@ -22,3 +22,5 @@ Protect and save as many possible eggs and hatchlings by pushing them to the for
 - Animated sprites
 - Randomized game environments and characters
 - Capture mouse position and animate it an 8 directional sprite sheet based on the relative position between the mouse and the Player
+- Debug mode
+
